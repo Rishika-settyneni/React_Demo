@@ -1,0 +1,9 @@
+#btn{
+  background-color: #1f73e0;
+  color: white;
+}
+#btn:hover{
+  background-color: #505b69;
+  color: white;
+  opacity: 0.8;
+}
